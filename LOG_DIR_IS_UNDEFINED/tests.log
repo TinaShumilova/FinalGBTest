@@ -1,0 +1,8 @@
+1181 [main] INFO  org.example.BookingService - testPositive starts
+1184 [main] DEBUG org.example.BookingService - Create mock
+1227 [main] DEBUG org.example.BookingService - Start assertions
+1248 [main] INFO  org.example.BookingService - Test testPositive passed
+1271 [main] INFO  org.example.BookingService - testNegative starts
+1271 [main] DEBUG org.example.BookingService - Create mock
+1284 [main] DEBUG org.example.BookingService - Start assertions
+1287 [main] INFO  org.example.BookingService - Test testNegative passed
